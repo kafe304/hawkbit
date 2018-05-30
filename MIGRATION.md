@@ -18,3 +18,4 @@
 
 ### Renamed maven modules
 - Module hawkbit-mgmt-api-client have changed to hawkbit-example-mgmt-simulator
+#create branch by Ekaterina Feoktistova
